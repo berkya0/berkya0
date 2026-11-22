@@ -68,7 +68,8 @@ Kırıkkale Üniversitesi **Bilgisayar Mühendisliği** 4. sınıf öğrencisiyi
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">📚 <a href="https://github.com/berkya0/Library-Management-System">Library Management System</a></h4>
-      <p>Katmanlı mimari, MapStruct, JWT/RBAC yetkilendirme, Global Exception Handling ve JUnit 5 / Mockito birim testleriyle geliştirdiğim ilk kapsamlı backend projem. (<a href="https://library-management-system-1-ej9c.onrender.com/swagger-ui/index.html">Canlı Swagger API</a>)</p>
+      <p>Katmanlı mimari, MapStruct, JWT/RBAC yetkilendirme, Global Exception Handling ve JUnit 5 / Mockito birim testleriyle geliştirdiğim ilk kapsamlı backend projem. (<a href="https://library-management-system-1-ej9c.onrender.com/swagger-ui/index.html">Canlı Swagger API</a>) 
+        NOT:Swagger beklenildiği gibi çalışmıyorsa veri tabanı silinmiştir. Ücretsiz sürüm kullanıyorum. </p>
       <p>
         <code>Spring Boot</code> <code>PostgreSQL</code> <code>Spring Security</code> <code>MapStruct</code> <code>JUnit 5</code>
       </p>
