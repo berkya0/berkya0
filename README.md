@@ -75,7 +75,7 @@ Kırıkkale Üniversitesi **Bilgisayar Mühendisliği** 4. sınıf öğrencisiyi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="left">🔄 Distributed Data Consistency Platform <i>(Geliştiriliyor)</i></h4>
+      <h4 align="left">🔄 <a href="https://github.com/berkya0/ledger-guard">Distributed Data Consistency Platform <i>(Geliştiriliyor)</i></a></h4>
       <p>Simüle edilmiş bankacılık mikroservis mimarisinde nihai tutarlılık (eventual consistency) anomalilerini tespit edip güvenli şekilde onaran platform.</p>
       <p>
         <code>Java</code> <code>Spring Boot</code> <code>RabbitMQ</code> <code>PostgreSQL</code> <code>Docker</code> <code>React</code>
